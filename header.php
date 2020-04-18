@@ -16,14 +16,14 @@
 
   <!-- Core Stylesheet -->
   <link rel="stylesheet" href="style.css" />
+
+  <!-- Other Stylesheet -->
+
 </head>
 
 <Body>
   <!-- This is Navigation code block -->
-  <!-- test 2 3 4-->
-  <nav role="navigation">
-
+  <nav>
+    
   </nav>
-</Body>
-
-</html>
+  <!-- Required for use of Header, use require_once and do not use html, head, body opening tag! -->
