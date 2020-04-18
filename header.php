@@ -16,10 +16,13 @@
 
   <!-- Core Stylesheet -->
   <link rel="stylesheet" href="style.css" />
-  < /head>
+</head>
 
 <Body>
+  <!-- This is Navigation code block -->
+  <nav role="navigation">
 
+  </nav>
 </Body>
 
 </html>
