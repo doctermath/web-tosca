@@ -22,7 +22,7 @@
 	</div>
 		<div class='container'>
 			<div style='padding-top: 15px;'>
-					<form action='forum_komunikasi.html' method='get'>
+					<form action='forum_komunikasi.php' method='get'>
 						
 						<table>
 						
