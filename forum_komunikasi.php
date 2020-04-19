@@ -40,7 +40,7 @@
 						<div class='btn' title='pertanyaan baru'>
 							<div class='btn-secondary' style='border-radius: 5%;'> 
 								<div class='btn-lg' style='border-radius: 5%; background: linear-gradient(to bottom right, #ff5050 14%, #800000 28%);'>
-									<a href='form_buat_pertanyaan.html' target='_blank' style='color: white;'> 
+									<a href='form_buat_pertanyaan.php' target='_blank' style='color: white;'> 
 										Buat Pertanyaan 
 									</a>
 								</div>
@@ -53,7 +53,7 @@
 			
 			<div class='container'> 
 					<div class='shadow-sm' style='color: gray;'>
-						<a href='forum_diskusi.html' target='_blank' style='color: black;'>  
+						<a href='forum_diskusi.php' target='_blank' style='color: black;'>  
 							<div class='border' style='padding: 20px;'>
 								Pertanyaan Lorem Ipsum. "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Tidak ada yang menyukai kepedihan, yang ... 
 								Lorem Ipsum. "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Tidak ada yang menyukai kepedihan, yang ... 
@@ -65,7 +65,7 @@
 					
 					<div class='shadow-sm' style='color: gray;'>
 						<div style='padding-top: 5px;'>
-							<a href='forum_diskusi.html' target='_blank' style='color: black;'> 
+							<a href='forum_diskusi.php' target='_blank' style='color: black;'> 
 								<div class='border' style='padding: 20px;'>
 								Pertanyaan Lorem Ipsum. "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Tidak ada yang menyukai kepedihan, yang ... 
 								Lorem Ipsum. "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Tidak ada yang menyukai kepedihan, yang ... 
@@ -78,7 +78,7 @@
 					
 					<div class='shadow-sm' style='color: gray;'>					
 						<div style='padding-top: 5px;'>
-							<a href='forum_diskusi.html' target='_blank' style='color: black;'> 
+							<a href='forum_diskusi.php' target='_blank' style='color: black;'> 
 								<div class='border' style='padding: 20px;'>
 								Pertanyaan Lorem Ipsum. "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Tidak ada yang menyukai kepedihan, yang ... 
 								Lorem Ipsum. "Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..." "Tidak ada yang menyukai kepedihan, yang ... 

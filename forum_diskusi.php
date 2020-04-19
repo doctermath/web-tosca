@@ -40,7 +40,7 @@
 						<div class='btn' title='pertanyaan baru'>
 							<div class='btn-secondary' style='border-radius: 5%;'> 
 								<div class='btn-lg' style='border-radius: 5%; background: linear-gradient(to bottom right, #ff5050 14%, #800000 28%);'>
-									<a href='form_buat_pertanyaan.html' target='_blank' style='color: white;'> 
+									<a href='form_buat_pertanyaan.php' target='_blank' style='color: white;'> 
 										Buat Pertanyaan 
 									</a>
 								</div>
