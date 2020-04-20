@@ -26,7 +26,7 @@
 	<div class="col-sm-8">
 	 <div class="blog_1">
 	  <ul>
-	      <li><a href="kepantiaan.html">Kepanitiaan</a></li>
+	      <li><a href="kepantiaan.php">Kepanitiaan</a></li>
 	  </ul>
 	  <h2>Kepanitiaan di UKMC Palembang</h2>
 	 </div>
