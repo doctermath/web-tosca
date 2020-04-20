@@ -14,6 +14,9 @@
 	</head>
 
 	<body>
+	<?php
+		include('index.php');
+	?>
 	
 	<div style='padding-top: 10px;'>
 		<div class='btn-primary' style='display: inline-block; padding: 5px 38px 5px 0px; border-radius: 0px 50% 50% 0px; -webkit-text-stroke: 0.3px black; background: linear-gradient(to bottom right, #ff5050 14%, #800000 28%);'>

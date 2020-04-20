@@ -15,6 +15,9 @@
 	</head>
 
 	<body> 
+	<?php
+		include('index.php');
+	?>
 			<div class='row'> 
 			
 				<!-- start bagian kiri -->
