@@ -14,7 +14,11 @@
 		
 	</head>
 
-	<body> <!-- dibagi menjadi 2 bagian yaitu sisi kiri dan sisi kanan -->
+	<body> 
+	<?php
+		include('index.php');
+	?>
+	<!-- dibagi menjadi 2 bagian yaitu sisi kiri dan sisi kanan -->
 			<div class='row'> 
 			
 				<!-- start bagian kiri -->
