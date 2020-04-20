@@ -19,6 +19,9 @@
 </head>
 
 <body>
+<?php	
+	include ('index.php');
+?>
 <section id="center" class="clearfix">
 	<div class="container">
 		<div class="row">

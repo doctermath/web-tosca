@@ -32,7 +32,6 @@
   <?php
   // Remove meize in order real online directory
   define('__ROOT__', dirname(dirname(__FILE__)));
-  require_once(__ROOT__.'/meize/home-process.php');
 
   ?>
 
@@ -99,12 +98,6 @@
       </div>  
     </div>
   </nav>
-
-  <!-- Main Page -->
-  <div class="y-container">
-    <h1>CONTENT PAGE UNDER DEVELOPMENT</h1>
-  </div>
-
   <!-- <script src="js\bootstrap.bundle.js"></script> -->
 </body>
 
