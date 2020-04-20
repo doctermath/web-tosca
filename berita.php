@@ -4,8 +4,10 @@
   </head>
   <link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css">
-  <!-- Bootstrap -->
+        <!-- Bootstrap -->
 		<link type="text/css" rel="stylesheet" href="css/bootstrap.min.css">
+        <link rel="stylesheet" href="css\y-style.css" />
+        <link rel="stylesheet" href="css\toggle-style.css" />
 
 		<!-- Owl Carousel -->
 		<link type="text/css" rel="stylesheet" href="css/owl.carousel.css" >
@@ -17,6 +19,10 @@
 		<!-- Custom stlylesheet -->
 		<link type="text/css" rel="stylesheet" href="css/style.css"/>
 
+
+        <!-- FONT  -->
+        <link href="https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;0,700;0,800;1,300;1,400;1,600;1,700;1,800&display=swap"rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css2?family=Merriweather:wght@900&display=swap"rel="stylesheet">
 
   <style>
 
@@ -55,6 +61,10 @@
 
   </style>
   <body>
+
+<?php
+ include ("index1.php");
+?>
 
 
 <div class="body-container">
